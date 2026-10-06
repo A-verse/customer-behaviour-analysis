@@ -11,8 +11,6 @@
   <a href="./customer_shopping_behavior.csv">📁 Dataset</a>
 </p>
 
----
-
 ## 🚀 About
 
 An end-to-end **retail customer analytics project** built with **Python, SQL, and Power BI** to understand customer behavior, spending patterns, product performance, and opportunities for customer retention.
@@ -20,8 +18,6 @@ An end-to-end **retail customer analytics project** built with **Python, SQL, an
 ### 🔄 Workflow
 
 **Raw Data → Cleaning → EDA → SQL Analysis → Power BI → Insights**
-
----
 
 ## 🧰 Tech Stack
 
@@ -31,8 +27,6 @@ An end-to-end **retail customer analytics project** built with **Python, SQL, an
 
 </p>
 
----
-
 ## 🔍 Analysis
 
 | 👥 Customer Behavior | 🛍️ Product Performance | 📈 Business Insights    |
@@ -41,8 +35,6 @@ An end-to-end **retail customer analytics project** built with **Python, SQL, an
 | Segmentation         | Purchase patterns      | Spending trends         |
 | Purchase frequency   | Customer preferences   | Retention opportunities |
 | Loyalty behavior     | Product demand         | Marketing opportunities |
-
----
 
 ## 📊 Power BI Dashboard
 
@@ -56,8 +48,6 @@ The interactive dashboard brings the analysis together through:
   </a>
 </p>
 
----
-
 ## 📁 Project Resources
 
 | Resource                                                             | Description                        |
@@ -70,8 +60,6 @@ The interactive dashboard brings the analysis together through:
 | 📄 [Project Report](./Customer%20Shopping%20Behavior%20Analysis.pdf) | Detailed analysis                  |
 | 🎤 [Presentation](./Customer-Shopping-Behavior-Analysis.pptx)        | Project presentation               |
 
----
-
 ## 💡 Key Outcomes
 
 - Identified **high-value customer segments**
@@ -79,8 +67,6 @@ The interactive dashboard brings the analysis together through:
 - Evaluated **product and category performance**
 - Examined **purchase frequency and loyalty behavior**
 - Derived opportunities for **targeted marketing and retention**
-
----
 
 ## 👨‍💻 Author
 
@@ -90,5 +76,3 @@ The interactive dashboard brings the analysis together through:
   ⭐ <strong>Star the repository if you found it useful.</strong>
 </p>
 [GitHub/A-verse](https://github.com/A-verse)
-
----
