@@ -17,7 +17,7 @@ The goal of this project is to analyze customer purchasing behavior and identify
 - Factors influencing customer spending
 - Opportunities for improving customer engagement and retention
 
-The project demonstrates how raw transactional data can be transformed into meaningful insights for **data-driven business decision-making**.
+The project demonstrates how raw customer data can be transformed into meaningful insights for **data-driven business decision-making**.
 
 ---
 
@@ -31,7 +31,7 @@ The project demonstrates how raw transactional data can be transformed into mean
 | 📓 **Jupyter Notebook**     | Data analysis workflow and documentation               |
 | 🧮 **Pandas**               | Data manipulation and transformation                   |
 | 📈 **Matplotlib / Seaborn** | Exploratory data visualization                         |
-| 🐬 **MySQL / SQL Database** | Analytical data storage and querying                   |
+| 🐬 **MySQL**                | Analytical data storage and querying                   |
 
 ---
 
@@ -61,17 +61,19 @@ Business Insights & Recommendations
 
 ### 1. Data Preparation & Exploratory Analysis
 
-Using Python and Pandas, the raw dataset is prepared for analysis by:
+Python and Pandas are used to prepare the raw customer dataset for analysis.
+
+Key activities include:
 
 - Inspecting data structure and data types
-- Handling missing and inconsistent values
-- Cleaning and transforming columns
-- Removing unnecessary or duplicate records
+- Identifying missing and inconsistent values
+- Cleaning and transforming data
+- Removing duplicate or irrelevant records
 - Exploring customer demographics
 - Analyzing purchasing and spending patterns
-- Identifying trends and relationships in the data
+- Identifying trends and relationships within the dataset
 
-The complete workflow is documented in the Jupyter notebook.
+The complete data preparation and exploratory analysis workflow is documented in the Jupyter notebook.
 
 ---
 
@@ -88,38 +90,38 @@ SQL queries are used to answer business-focused questions such as:
 - How does spending vary across customer demographics?
 - What factors are associated with higher purchase frequency?
 
-This stage focuses on converting raw records into **decision-ready business metrics**.
+This stage converts raw customer records into **decision-ready business metrics**.
 
 ---
 
 ### 3. Power BI Dashboard
 
-An interactive Power BI dashboard is used to communicate the findings visually.
+An interactive Power BI dashboard is developed to communicate the analysis through clear and intuitive visualizations.
 
 ### Dashboard areas include:
 
 - 📈 Revenue and spending KPIs
 - 👥 Customer demographics
 - 🛍️ Purchase behavior
-- 🏷️ Product/category performance
+- 🏷️ Product and category performance
 - 🔁 Customer loyalty indicators
 - 📊 Customer segmentation
-- 🔎 Interactive filtering and drill-down analysis
+- 🔎 Interactive filtering and analysis
 
-The dashboard is designed to make analytical findings easy for business stakeholders to explore.
+The dashboard enables stakeholders to explore customer behavior and identify important trends efficiently.
 
 ---
 
 ## 📊 Key Business Questions
 
-This project focuses on answering practical questions such as:
+The analysis focuses on answering practical business questions:
 
 1. Which customer groups contribute the most revenue?
 2. Which products or categories generate the highest demand?
 3. What customer characteristics are associated with higher spending?
 4. How does purchase frequency vary across customer segments?
 5. Which customers demonstrate stronger loyalty?
-6. What opportunities can be identified to improve customer retention and revenue?
+6. What opportunities exist to improve customer retention and revenue?
 
 ---
 
@@ -146,10 +148,11 @@ customer-behaviour-analysis/
 ├── presentation/
 │   └── project-presentation.pdf
 │
+├── assets/
+│   └── dashboard.png
+│
 └── README.md
 ```
-
-> Update the folder/file names above to match the actual repository structure.
 
 ---
 
@@ -200,72 +203,70 @@ Connect it to your SQL database and refresh the data if required.
 
 ## 📸 Dashboard Preview
 
-Add your Power BI dashboard screenshot here:
+Add a screenshot of the Power BI dashboard here:
 
 ```markdown
 ![Customer Behavior Dashboard](./assets/dashboard.png)
 ```
 
-A good dashboard screenshot should show the major KPIs, customer segments, purchase trends and interactive visualizations in one view.
-
 ---
 
 ## 💡 Key Insights
 
-The analysis is designed to translate customer-level data into business insights around:
+The analysis provides insights into customer value, segmentation, purchasing behavior and retention opportunities.
 
-**Customer Value**  
+### Customer Value
+
 Identify high-value customers and understand the characteristics associated with greater spending.
 
-**Customer Segmentation**  
+### Customer Segmentation
+
 Compare customer groups based on demographics, purchasing behavior and engagement.
 
-**Purchase Behavior**  
-Understand which products, categories and purchasing patterns contribute to business performance.
+### Purchase Behavior
 
-**Retention Opportunities**  
-Use behavioral patterns to identify opportunities for improving loyalty and repeat purchases.
+Understand which products, categories and purchasing patterns contribute to overall business performance.
 
-> Add 3–5 **actual quantified findings** from your analysis here. For example:  
-> `Customers in Segment X contributed the highest average spending per transaction.`  
-> `Category Y accounted for the largest share of purchases.`
+### Retention Opportunities
+
+Identify behavioral patterns that can help businesses improve customer loyalty and repeat purchases.
+
+> **Tip:** Add 3–5 quantified findings from your actual analysis here.  
+> For example:
+>
+> - Customers in **[Segment]** recorded the highest average spending.
+> - **[Category]** generated the largest share of purchases.
+> - Customers with **[Behavior]** showed higher purchase frequency.
 
 ---
 
 ## 📈 Business Recommendations
 
-Based on the analysis, businesses can use the findings to:
+Based on the analysis, businesses can:
 
 - Develop targeted marketing strategies for high-value customer segments
 - Improve retention programs for frequent customers
 - Personalize promotions based on purchasing behavior
 - Identify underperforming product categories
 - Allocate marketing resources toward high-potential customer groups
-- Use customer data to support more informed business decisions
+- Use customer analytics to support data-driven decision-making
 
 ---
 
-## 🎓 What This Project Demonstrates
+## 🎓 Skills Demonstrated
 
 This project demonstrates practical experience in:
 
 - **Data Cleaning & Preprocessing**
 - **Exploratory Data Analysis**
+- **Python & Pandas**
 - **SQL Analytics**
 - **Customer Segmentation**
 - **Business Intelligence**
+- **Power BI Dashboard Development**
 - **Data Visualization**
-- **Dashboard Development**
-- **Translating Data into Business Insights**
-
----
-
-## 📚 Learning Resources
-
-This project was inspired by an end-to-end customer analytics workflow and can also be used as a learning reference for understanding how **Python, SQL and Power BI** work together in a modern analytics pipeline.
-
-🎥 **Tutorial / Walkthrough:**  
-[Watch on YouTube](https://www.youtube.com/watch?v=5PrZvPeUw60&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=3)
+- **KPI Analysis**
+- **Business Insights & Recommendations**
 
 ---
 
@@ -273,7 +274,7 @@ This project was inspired by an end-to-end customer analytics workflow and can a
 
 ### AK
 
-Software Engineering student interested in **data analytics, software development and data-driven problem solving**.
+Software Engineering student interested in **software development, data analytics and data-driven problem solving**.
 
 🔗 **GitHub:** [A-verse](https://github.com/A-verse)
 
@@ -281,4 +282,4 @@ Software Engineering student interested in **data analytics, software developmen
 
 ## ⭐ Support
 
-If you found this project useful, consider giving the repository a **star ⭐** and exploring the analysis, SQL queries and dashboard.
+If you found this project useful, consider giving the repository a **star ⭐**.
