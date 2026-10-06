@@ -64,7 +64,7 @@ Raw Data → Cleaning → EDA → SQL Analysis → Power BI → Insights
 
 ---
 
-##💡 Key Outcomes
+## 💡 Key Outcomes
 
 - Identified high-value customer segments
 - Analyzed spending and purchasing patterns
