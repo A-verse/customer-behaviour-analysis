@@ -91,7 +91,7 @@ The interactive dashboard brings the analysis together through:
 **AK**  
 B.Tech student focused on **Software Development & Data Analytics**
 
-[GitHub → A-verse](https://github.com/A-verse)
+[GitHub/A-verse](https://github.com/A-verse)
 
 ---
 
