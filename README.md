@@ -76,38 +76,15 @@ Raw Data → Cleaning → EDA → SQL Analysis → Power BI → Insights
 
 ## 📁 Project Resources
 
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
-
-🐍 **[Python Notebook](./Customer_Shopping_Behavior_Analysis.ipynb)**  
-<sub>Data cleaning, EDA & preprocessing</sub>
-
-🗄️ **[SQL Queries](./customer_behavior_sql_queries.sql)**  
-<sub>Business-focused SQL analysis</sub>
-
-📊 **[Power BI Dashboard](./customer_behavior_dashboard.pbix)**  
-<sub>Interactive dashboard</sub>
-
-📁 **[Dataset](./customer_shopping_behavior.csv)**  
-<sub>Customer shopping data</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-📋 **[Business Problem](./Business%20Problem%20Document.pdf)**  
-<sub>Problem definition</sub>
-
-📄 **[Project Report](./Customer%20Shopping%20Behavior%20Analysis.pdf)**  
-<sub>Detailed analysis</sub>
-
-🎤 **[Presentation](./Customer-Shopping-Behavior-Analysis.pptx)**  
-<sub>Project presentation</sub>
-
-</td>
-</tr>
-</table>
+| Resource                                                             | Description                        |
+| -------------------------------------------------------------------- | ---------------------------------- |
+| 🐍 [Python Notebook](./Customer_Shopping_Behavior_Analysis.ipynb)    | Data cleaning, EDA & preprocessing |
+| 🗄️ [SQL Queries](./customer_behavior_sql_queries.sql)                | Business-focused SQL analysis      |
+| 📊 [Power BI Dashboard](./customer_behavior_dashboard.pbix)          | Interactive dashboard              |
+| 📁 [Dataset](./customer_shopping_behavior.csv)                       | Customer shopping data             |
+| 📋 [Business Problem](./Business%20Problem%20Document.pdf)           | Problem definition                 |
+| 📄 [Project Report](./Customer%20Shopping%20Behavior%20Analysis.pdf) | Detailed analysis                  |
+| 🎤 [Presentation](./Customer-Shopping-Behavior-Analysis.pptx)        | Project presentation               |
 
 ---
 
