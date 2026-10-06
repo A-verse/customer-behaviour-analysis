@@ -1,10 +1,6 @@
 # 📊 Customer Behavior Analytics
 
 <p align="center">
-  <strong>Turning retail customer data into actionable business insights</strong>
-</p>
-
-<p align="center">
   <img src="./dashboard-preview.png" alt="Customer Behavior Dashboard" width="900">
 </p>
 
@@ -56,7 +52,7 @@ The interactive dashboard brings the analysis together through:
 
 <p align="center">
   <a href="./customer_behavior_dashboard.pbix">
-    <strong>📥 Open the Power BI Dashboard</strong>
+    <strong>📥 Download Power BI File </strong>
   </a>
 </p>
 
@@ -88,13 +84,11 @@ The interactive dashboard brings the analysis together through:
 
 ## 👨‍💻 Author
 
-**AK**  
-B.Tech student focused on **Software Development & Data Analytics**
+**Anjali Kamal**
 
+<p>
+  ⭐ <strong>Star the repository if you found it useful.</strong>
+</p>
 [GitHub/A-verse](https://github.com/A-verse)
 
 ---
-
-<p align="center">
-  ⭐ <strong>Star the repository if you found it useful.</strong>
-</p>
