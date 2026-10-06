@@ -1,55 +1,72 @@
 # 📊 Customer Behavior Analytics
 
-> End-to-end retail customer analytics using **Python, SQL & Power BI** to uncover purchasing patterns, customer segments, and actionable business insights.
+<p align="center">
+  <strong>Turning retail customer data into actionable business insights</strong>
+</p>
 
 <p align="center">
-  <img src="./Screenshot%202026-10-06%20131559.png" alt="Customer Behavior Dashboard" width="900">
+  <img src="./dashboard-preview.png" alt="Customer Behavior Dashboard" width="900">
+</p>
+
+<p align="center">
+  <a href="./customer_behavior_dashboard.pbix">📊 Power BI Dashboard</a> •
+  <a href="./Customer_Shopping_Behavior_Analysis.ipynb">🐍 Python Analysis</a> •
+  <a href="./customer_behavior_sql_queries.sql">🗄️ SQL Analysis</a> •
+  <a href="./customer_shopping_behavior.csv">📁 Dataset</a>
 </p>
 
 ---
 
-## 🚀 Overview
+## 🚀 About
 
-This project analyzes **customer shopping behavior** across demographics, spending, purchasing patterns, and product preferences.
+An end-to-end **retail customer analytics project** built with **Python, SQL, and Power BI** to understand customer behavior, spending patterns, product performance, and opportunities for customer retention.
 
-The workflow covers the complete analytics pipeline:
+### 🔄 Workflow
 
-**Data Cleaning → EDA → SQL Analysis → Power BI Dashboard → Business Insights**
+**Raw Data → Cleaning → EDA → SQL Analysis → Power BI → Insights**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Python** · **Pandas** · **Matplotlib** · **Seaborn** · **SQL** · **Power BI** · **Jupyter Notebook**
+<p align="center">
+
+`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `SQL` · `Power BI` · `Jupyter`
+
+</p>
 
 ---
 
-## 🔍 What I Analyzed
+## 🔍 Analysis
 
-- 👥 Customer demographics & segmentation
-- 💰 Spending and purchase behavior
-- 🛍️ Product & category performance
-- 🔄 Purchase frequency & customer loyalty
-- 📈 Customer-level KPIs and trends
-- 💡 Business opportunities for retention and engagement
-
----
-
-## 📊 Dashboard
-
-The Power BI dashboard provides an interactive view of:
-
-**Customer Segments · Spending KPIs · Purchase Behavior · Product Performance · Demographics · Loyalty**
-
-**[Open Power BI Dashboard](./customer_behavior_dashboard.pbix)**
+| 👥 Customer Behavior | 🛍️ Product Performance | 📈 Business Insights    |
+| -------------------- | ---------------------- | ----------------------- |
+| Demographics         | Category performance   | High-value segments     |
+| Segmentation         | Purchase patterns      | Spending trends         |
+| Purchase frequency   | Customer preferences   | Retention opportunities |
+| Loyalty behavior     | Product demand         | Marketing opportunities |
 
 ---
 
-## 📁 Project Files
+## 📊 Power BI Dashboard
+
+The interactive dashboard brings the analysis together through:
+
+**Customer Segmentation · Spending KPIs · Purchase Behavior · Product Performance · Demographics · Loyalty**
+
+<p align="center">
+  <a href="./customer_behavior_dashboard.pbix">
+    <strong>📥 Open the Power BI Dashboard</strong>
+  </a>
+</p>
+
+---
+
+## 📁 Project Resources
 
 | Resource                                                             | Description                        |
 | -------------------------------------------------------------------- | ---------------------------------- |
-| 🐍 [Python Notebook](./Customer_Shopping_Behavior_Analysis.ipynb)    | Data cleaning, preprocessing & EDA |
+| 🐍 [Python Notebook](./Customer_Shopping_Behavior_Analysis.ipynb)    | Data cleaning, EDA & preprocessing |
 | 🗄️ [SQL Queries](./customer_behavior_sql_queries.sql)                | Business-focused SQL analysis      |
 | 📊 [Power BI Dashboard](./customer_behavior_dashboard.pbix)          | Interactive dashboard              |
 | 📁 [Dataset](./customer_shopping_behavior.csv)                       | Customer shopping data             |
@@ -59,32 +76,25 @@ The Power BI dashboard provides an interactive view of:
 
 ---
 
-## 💡 Business Impact
+## 💡 Key Outcomes
 
-The analysis helps identify:
-
-- High-value customer segments
-- Products and categories with stronger demand
-- Spending patterns across customer groups
-- Opportunities for targeted marketing
-- Customer retention and loyalty opportunities
-
----
-
-## 🎯 Skills Demonstrated
-
-**Data Analysis** · **Data Cleaning** · **EDA** · **SQL** · **Customer Segmentation** · **Power BI** · **Data Visualization** · **KPI Analysis** · **Business Intelligence**
+- Identified **high-value customer segments**
+- Analyzed **spending and purchasing patterns**
+- Evaluated **product and category performance**
+- Examined **purchase frequency and loyalty behavior**
+- Derived opportunities for **targeted marketing and retention**
 
 ---
 
 ## 👨‍💻 Author
 
-### AK
-
-B.Tech student focused on **Software Development, Data Analytics & Data-Driven Problem Solving**.
+**AK**  
+B.Tech student focused on **Software Development & Data Analytics**
 
 [GitHub → A-verse](https://github.com/A-verse)
 
 ---
 
-⭐ **If you found this project useful, consider starring the repository.**
+<p align="center">
+  ⭐ <strong>Star the repository if you found it useful.</strong>
+</p>
